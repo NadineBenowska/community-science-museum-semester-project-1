@@ -132,7 +132,7 @@ header .logo{
 #headline-exhibitions{
     font-size: 60px;
     color:black;
-    background-color: lightblue;
+    background-color: rgb(171, 214, 228);
     text-decoration: none;
     box-shadow: 0 0 30px black;
     text-transform: uppercase;
@@ -556,7 +556,7 @@ h3{
 
 /*Navigation Mobile*/
 
-@media(max-width: 600px){
+@media(max-width: 900px){
 
     header .logo{
         font-size: 25px;
@@ -666,8 +666,6 @@ h3{
     }
 
 
-
-
     .card p{
         padding: 10px;
         text-align: center;
@@ -682,5 +680,6 @@ h3{
     .header-contactus{
         width: 100vw;
         height: 120vh;
-    }
+    } 
+    
 }
