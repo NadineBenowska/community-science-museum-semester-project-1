@@ -347,9 +347,9 @@ h3{
 
 .header-activities{
     width: 100vw;
-    height: 50vh;
+    height: 70vh;
     background-image: url(/images/Activities1.jpeg);
-    background-position:center;
+    background-position:top;
     background-repeat: no-repeat;
     background-size:cover;
 }
