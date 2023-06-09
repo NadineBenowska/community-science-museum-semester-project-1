@@ -1,6 +1,6 @@
 # community-science-museum-semester-project-1
 
-![Museum](https://github.com/NadineBenowska/community-science-museum-semester-project-1/assets/94540179/7a5a6595-529e-436b-8604-c84f7fbb4d5a)
+![Museum](https://github.com/NadineBenowska/community-science-museum-semester-project-1/assets/94540179/2f9df077-0035-4ac5-9ec6-a8c49f4673d0)
 
 A screenshot of the explore page over at The Conscious Coffee website, a cross-course project. 
 
